@@ -1,0 +1,4 @@
+cd /
+cd home/pi/ps
+sudo python bbt.py
+cd /
